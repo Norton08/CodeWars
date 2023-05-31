@@ -1,1 +1,1 @@
-﻿RegexValidatePinCode.RunTests();
+﻿Isograms.RunTests();
