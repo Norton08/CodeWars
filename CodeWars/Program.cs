@@ -1,1 +1,1 @@
-﻿HighestAndLowest.RunTests();
+﻿RegexValidatePinCode.RunTests();
