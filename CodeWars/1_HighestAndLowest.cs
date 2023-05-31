@@ -1,6 +1,6 @@
 ﻿public static class HighestAndLowest
 {
-    public static void Run()
+    public static void RunTests()
     {
         Console.WriteLine(HighAndLow("8 3 -5 42 -1 0 0 -9 4 7 4 -4")); 
         Console.WriteLine(HighAndLow("1 2 3"));

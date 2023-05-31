@@ -1,3 +1,1 @@
-﻿//HighestAndLowest.Run();
-//RegexValidatePinCode.Run();
-Isograms.Run();
+﻿HighestAndLowest.RunTests();
