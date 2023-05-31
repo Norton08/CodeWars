@@ -1,1 +1,1 @@
-﻿Isograms.RunTests();
+﻿GrowthOfAPopulation.RunTests();
