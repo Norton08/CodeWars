@@ -1,2 +1,3 @@
-﻿
-Console.WriteLine("Hello, World!");
+﻿//HighestAndLowest.Run();
+//RegexValidatePinCode.Run();
+Isograms.Run();
